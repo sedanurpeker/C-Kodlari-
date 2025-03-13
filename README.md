@@ -3,6 +3,6 @@ Bu repository, C programlama diliyle pratik yapmak için yazılmış çeşitli k
 
 ## 📌 İçerik
 Bu repoda yer alan konular:
-✅ Temel C sözdizimi ve fonksiyonlar
-✅ Döngüler ve karar yapıları
-✅ Fonksiyonlar
+- ✅ Temel C sözdizimi ve fonksiyonlar
+- ✅ Döngüler ve karar yapıları
+- ✅ Fonksiyonlar
