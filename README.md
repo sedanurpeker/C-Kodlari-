@@ -55,10 +55,10 @@ kodlama pratikleri yapmak ve başlangıç seviyesinden ileriye adım atmak istey
    git clone https://github.com/kullaniciadiniz/C-Kodlari.git
 2. İlgili .c dosyasını açın.
 3. Bir C derleyicisi (GCC, Clang, Code::Blocks, Dev-C++, vb.) ile çalıştırın:
-  ```bash
-   gcc dosya_adi.c -o program
-  ./program 
-```
+    ```bash
+     gcc dosya_adi.c -o program
+    ./program 
+    ```
 ## Notlar
 - Kodlar temel seviye olduğu için öğrenme amaçlıdır.
 
